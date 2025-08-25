@@ -2,6 +2,9 @@
 
 DevSecOps Pipeline for Secure Multi-language Applications Using Jenkins
 
+![BugFlow Overview](BugFlow.png)
+
+
 ## Overview
 
 **BugFlow** is a beginner DevSecOps pipeline project designed to automate security checks throughout the software development lifecycle for multi-language applications, with integration to Jenkins. Pipelines like this helps teams shift security left by embedding static code analysis, vulnerability scanning, and best practices from planning to deployment.
